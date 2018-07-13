@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>New Test Case</name>
+   <name>TC1_Get_Downloadable_Strema</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>c9b27f5c-1929-4b5c-a5a9-1f7ef46ca055</testCaseGuid>
+   <testCaseGuid>925a6890-9a6d-4032-b661-b8b4aa880e42</testCaseGuid>
 </TestCaseEntity>

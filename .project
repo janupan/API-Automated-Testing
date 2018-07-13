@@ -15,6 +15,63 @@
 		<nature>org.eclipse.jdt.groovy.core.groovyNature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>kat-1467382523731357751.groovy</name>
+			<type>1</type>
+			<location>C:/Users/RIKKY/AppData/Local/Temp/Katalon/Web Services/kat-1467382523731357751.groovy</location>
+		</link>
+		<link>
+			<name>kat-1938524002438531510.groovy</name>
+			<type>1</type>
+			<location>C:/Users/RIKKY/AppData/Local/Temp/Katalon/Web Services/kat-1938524002438531510.groovy</location>
+		</link>
+		<link>
+			<name>kat-2009470838531793466.groovy</name>
+			<type>1</type>
+			<location>C:/Users/RIKKY/AppData/Local/Temp/Katalon/Web Services/kat-2009470838531793466.groovy</location>
+		</link>
+		<link>
+			<name>kat-2792455719444498756.groovy</name>
+			<type>1</type>
+			<location>C:/Users/RIKKY/AppData/Local/Temp/Katalon/Web Services/kat-2792455719444498756.groovy</location>
+		</link>
+		<link>
+			<name>kat-2974700330084776892.groovy</name>
+			<type>1</type>
+			<location>C:/Users/RIKKY/AppData/Local/Temp/Katalon/Web Services/kat-2974700330084776892.groovy</location>
+		</link>
+		<link>
+			<name>kat-3207839644739001404.groovy</name>
+			<type>1</type>
+			<location>C:/Users/RIKKY/AppData/Local/Temp/Katalon/Web Services/kat-3207839644739001404.groovy</location>
+		</link>
+		<link>
+			<name>kat-326979357610503191.groovy</name>
+			<type>1</type>
+			<location>C:/Users/RIKKY/AppData/Local/Temp/Katalon/Web Services/kat-326979357610503191.groovy</location>
+		</link>
+		<link>
+			<name>kat-4336727325004382370.groovy</name>
+			<type>1</type>
+			<location>C:/Users/RIKKY/AppData/Local/Temp/Katalon/Web Services/kat-4336727325004382370.groovy</location>
+		</link>
+		<link>
+			<name>kat-5509498697456269459.groovy</name>
+			<type>1</type>
+			<location>C:/Users/RIKKY/AppData/Local/Temp/Katalon/Web Services/kat-5509498697456269459.groovy</location>
+		</link>
+		<link>
+			<name>kat-8680405988999245591.groovy</name>
+			<type>1</type>
+			<location>C:/Users/RIKKY/AppData/Local/Temp/Katalon/Web Services/kat-8680405988999245591.groovy</location>
+		</link>
+		<link>
+			<name>kat-8716458719043195259.groovy</name>
+			<type>1</type>
+			<location>C:/Users/RIKKY/AppData/Local/Temp/Katalon/Web Services/kat-8716458719043195259.groovy</location>
+		</link>
+	</linkedResources>
 	<filteredResources>
 		<filter>
 			<id>1531451252761</id>
