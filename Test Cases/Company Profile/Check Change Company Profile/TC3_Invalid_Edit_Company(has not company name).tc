@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC3_Invalid_Edit_Company(has not company name)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3d092ec1-9a24-48c1-9d1d-14d1284456a7</testCaseGuid>
+</TestCaseEntity>

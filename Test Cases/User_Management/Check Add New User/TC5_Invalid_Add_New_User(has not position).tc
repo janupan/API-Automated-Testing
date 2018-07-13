@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC5_Invalid_Add_New_User(has not position)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>264c0e83-cec6-40c1-8dd7-86a12763fc8e</testCaseGuid>
+</TestCaseEntity>

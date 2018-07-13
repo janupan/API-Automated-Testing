@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC4_Invalid_Add_New_User(has not fullname)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5573d0c-3003-4b40-aac5-15075d5a1c7b</testCaseGuid>
+</TestCaseEntity>
