@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>Get_User_Profile</name>
+   <name>Get_downloadanble</name>
    <tag></tag>
-   <elementGuidId>0909ad05-99b8-49e4-879f-460b73880d03</elementGuidId>
+   <elementGuidId>41ad6c7c-6241-4497-b5c3-eb8e386b0e43</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <httpBody></httpBody>
@@ -25,7 +25,7 @@
    </httpHeaderProperties>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>GET</restRequestMethod>
-   <restUrl>https://quackapipolda-staging.azurewebsites.net/v1/companies/4681620831674046471/qiscus/users/fajar2@mailinator.com</restUrl>
+   <restUrl>https://quackapipolda-staging.azurewebsites.net/v1/companies/4681620831674046471/streams</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
