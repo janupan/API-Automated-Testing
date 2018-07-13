@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>API-Automated-Testing</name>
+   <tag></tag>
+   <UUID>31f41474-92c6-4a3b-9a79-bbbee671544f</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>
